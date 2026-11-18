@@ -1,5 +1,5 @@
 def greet():
-    return "Hello"
+    return "HELLO"
 
 def calculate():
     return 2 + 2
